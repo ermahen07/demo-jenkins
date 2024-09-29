@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Buld') {
       steps {
-        echo 'This is new build project'
+        echo 'This is new build project of me'
       }
     }
 
