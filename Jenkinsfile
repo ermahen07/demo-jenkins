@@ -11,8 +11,8 @@ pipeline {
       parallel {
         stage('Test') {
           steps {
-            sh '''mkdir mahi
-cd mahi
+            sh '''mkdir mahen1
+cd mahen1
 mkdir mahen.html
 ls
 pwd
